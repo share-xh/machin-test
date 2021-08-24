@@ -160,7 +160,6 @@ int main()
 
 	}
 	BFS();
-
 	cout << endl;
 	for (int i = 0; i < m; i++)
 	{
